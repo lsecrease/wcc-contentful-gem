@@ -1,7 +1,7 @@
 require "wcc/contentful/version"
+require "wcc/contentful/client"
 
 module Wcc
   module Contentful
-    # Your code goes here...
   end
 end

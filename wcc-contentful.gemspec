@@ -9,9 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["lsecrease"]
   spec.email         = ["lsecrease@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A gem for how Watermark interacts and integrates with Contentful API}
+  spec.homepage      = "https://github.com/lsecrease/wcc-contentful-gem"
   spec.license       = "MIT"
 
 
